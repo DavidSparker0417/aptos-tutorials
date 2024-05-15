@@ -1,0 +1,6 @@
+{
+  "1.aptos-ts-sdk": {
+    "ref": "https://aptos.dev/tutorials/your-first-transaction",
+    "org-repo": "git clone https://github.com/aptos-labs/aptos-ts-sdk.git"
+  }
+}

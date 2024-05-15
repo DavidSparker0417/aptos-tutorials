@@ -1,0 +1,4 @@
+{
+  "install": "pnpm install",
+  "running-platform": "Ubuntu"
+}
