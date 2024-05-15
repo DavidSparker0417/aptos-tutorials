@@ -1,0 +1,8 @@
+{
+  "initial": [
+    "1. create an new 'move' directory",
+    "2. cd move",
+    "3. aptos move init --name my_todo_list",
+    "   then 'sources' directory and Move.toml file are generated"
+  ]
+}
